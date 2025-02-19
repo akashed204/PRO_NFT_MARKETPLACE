@@ -5,7 +5,7 @@ import { CreatorCard, Action, Banner, Title } from "../components/index";
 import { NFTContext } from "../context/NFTContext";
 import { getCreators } from "../utils/getTopCreators";
 import { shortenAddress } from "../utils/shortenAddress";
-import images from "../assets";
+import images from "../assets/index";
 
 const creator = () => {
   const { fetchNFTs } = useContext(NFTContext);

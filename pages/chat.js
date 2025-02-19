@@ -6,7 +6,7 @@ import { useRouter } from "next/router";
 //INTERNAL IMPORT
 import { Loader, Input, Button } from "../components/index";
 import { NFTContext } from "../context/NFTContext";
-import images from "../assets";
+import images from "../assets/index";
 import { shortenAddress } from "../utils/shortenAddress";
 
 const chat = () => {

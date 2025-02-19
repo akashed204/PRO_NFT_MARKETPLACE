@@ -16,7 +16,7 @@ import {
 } from "../components/index";
 import { getCreators } from "../utils/getTopCreators";
 import { shortenAddress } from "../utils/shortenAddress";
-import images from "../assets";
+import images from "../assets/index";
 
 const index = () => {
   const { NFT_MARKETPLACE, fetchNFTs, communityAllUser } =

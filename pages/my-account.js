@@ -18,7 +18,7 @@ import {
   Video,
   WithdrawBid,
 } from "../components/index";
-import images from "../assets";
+import images from "../assets/index";
 
 const myAccount = () => {
   const { currentAccount } = useContext(NFTContext);

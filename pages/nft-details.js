@@ -7,7 +7,7 @@ import Image from "next/image";
 import { NFTContext } from "../context/NFTContext";
 import { shortenAddress } from "../utils/shortenAddress";
 import { Button, Loader, Modal, Input, Bid } from "../components/index";
-import images from "../assets";
+import images from "../assets/index";
 
 //MODAL PAYMENT COMPONENT
 

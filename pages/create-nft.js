@@ -16,7 +16,7 @@ import axios from "axios";
 //INTERNAL IMPORT
 import { NFTContext } from "../context/NFTContext";
 import { Button, Input, Loader, Banner } from "../components/index";
-import images from "../assets";
+import images from "../assets/index";
 
 const CreateItem = () => {
   const { createSale, isLoadingNFT } = useContext(NFTContext);

@@ -2,7 +2,7 @@ import React from "react";
 
 //IMPORT INTERNAL
 import { Banner, Services } from "../components/index";
-import images from "../assets";
+import images from "../assets/index";
 
 const offers = () => {
   const offerList = [

@@ -5,7 +5,7 @@ import Image from "next/image";
 import Link from "next/link";
 
 //INTERNAL IMPORT
-import images from "../../assets";
+import images from "../../assets/index";
 import { NFTContext } from "../../context/NFTContext";
 import Button from "./Button";
 

@@ -6,7 +6,7 @@ import toast from "react-hot-toast";
 import Image from "next/image";
 
 //INTERNAL IMPORT
-import images from "../../assets";
+import images from "../../assets/index";
 
 //FOOTER MENU GENERATOR
 const FooterLinks = ({ heading, items, extraClasses, links }) => (

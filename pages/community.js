@@ -13,7 +13,7 @@ import {
   Button,
 } from "../components";
 import { NFTContext } from "../context/NFTContext";
-import images from "../assets";
+import images from "../assets/index";
 import { shortenAddress } from "../utils/shortenAddress";
 
 ///AddFriendMODAL
