@@ -4,14 +4,14 @@
 
 Create your first Multi Media NFT Marketplaceon on any Network. This is one of the best web3.0 blockchain course + blockchain projects you can include in your portfolio. Deploy this NFT marketplace on any blockchain like polygon and Ethereum. Learn techonlogy like Solidity, tailwinds css, hardhat, html,css,Web3 Provider, Ether Js< Next Js metamask etc
 
-Resource Final Code: https://www.theblockchaincoders.com/
+Resource Final Code:
 
-Get Pro Course "PRO NFT MARKETPLACE": https://bit.ly/AI-Movie-App-Course
+Get Pro Course "PRO NFT MARKETPLACE": 
 
-Support Creator: https://bit.ly/Support-Creator
+Support Creator: 
 
-All Projects Source Code: https://www.theblockchaincoders.com/SourceCode
+All Projects Source Code: 
 
-Official Website: https://www.theblockchaincoders.com
+Official Website: 
 
-Book 1 -1 Appointment: https://bit.ly/Book-1-1-Appointment
+Book 1 -1 Appointment:
