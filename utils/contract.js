@@ -10,7 +10,7 @@ const networks = {
       symbol: "ETH",
       decimals: 18,
     },
-    rpcUrls: ["https://rpc.ankr.com/eth_holesky"],
+    rpcUrls: ["https://rpc.ankr.com/eth_holesky/26bd14faeaac6ac0223a40ab6955c487847ce64c28b4a54044b1d3fc83dc5488"],
     blockExplorerUrls: ["https://holesky.etherscan.io/"],
   },
   polygon_amoy: {
